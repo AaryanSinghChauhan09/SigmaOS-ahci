@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-ahci"
-description = "SATA/AHCI controller support"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 version = "0.1.0"
 tier = 2
 
